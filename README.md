@@ -1,1 +1,1 @@
-# discord-bot-TOS
+# discord-bot-info
