@@ -11,12 +11,12 @@ User Conduct
 You agree to use the Bot in a responsible and respectful manner. You may not use the Bot for any illegal or unauthorized purpose, including but not limited to harassment, cheating, or abusive behavior. You may not attempt to disrupt the Bot's functionality or access the Bot's source code.
 
 Liability and Warranty Limitations
-The Bot is provided "as is" and without warranty of any kind. [Bot Creator] is not responsible for any damages or losses incurred by users while using the Bot. [Bot Creator] is not liable for any loss of virtual currency or other data resulting from the use of the Bot. [Bot Creator] reserves the right to suspend or terminate the Bot's services at any time.
+The Bot is provided "as is" and without warranty of any kind. [Bot Creator] is not responsible for any damages or losses incurred by users while using the Bot. Shemly is not liable for any loss of virtual currency or other data resulting from the use of the Bot. [Bot Creator] reserves the right to suspend or terminate the Bot's services at any time.
 
 Changes to the Terms
-[Bot Creator] reserves the right to modify these Terms at any time. Your continued use of the Bot after any changes to the Terms constitutes your acceptance of the revised Terms.
+Shemly reserves the right to modify these Terms at any time. Your continued use of the Bot after any changes to the Terms constitutes your acceptance of the revised Terms.
 
 Contact Information
-If you have any questions or concerns about these Terms, please contact [Bot Creator] at [Contact Information].
+If you have any questions or concerns about these Terms, please contact Shemly at Shemly#0001 on discord.
 
-By using [Bot Name], you agree to be bound by these Terms. If you do not agree to these Terms, you may not use the Bot.
+By using Mystery Bot, you agree to be bound by these Terms. If you do not agree to these Terms, you may not use the Bot.
